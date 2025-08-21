@@ -5,3 +5,6 @@ edition = "2024"
 
 [dependencies]
 custom-package = { version = "0.1.0", registry = "artifactory" }
+
+[dev-dependencies]
+custom-package = { version = "0.1.0", registry = "artifactory" }
